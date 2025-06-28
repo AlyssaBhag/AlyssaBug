@@ -18,7 +18,7 @@ This site showcases my projects, skills, and anything else I'm currently creatin
 👉 [Visit Alyssbug](https://alyssabhag.github.io/AlyssaBug/)
 
 ## 📫 Contact
-
+---
 Want to collaborate, chat about games, or share bug horror stories?  
 - 📧 [Email Me](mailto:a20lyssa@hotmail.com)  
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/alyssabhagwandin/)
